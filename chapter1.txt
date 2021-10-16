@@ -1,1 +1,2 @@
 Hi there!, this is thoufic. It was a good day!
+I am doing an experiment exercise to learn git today.
